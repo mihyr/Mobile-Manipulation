@@ -1,7 +1,7 @@
 # Mobile-Manipulation
 
 <p align="center">
-<a href="https://youtu.be/hw1oh1wC0ss" target="_blank"><img src="https://media.giphy.com/media/La9RB8Rf0ADTKDAinr/giphy.gif" alt="Mobile Manipulation" width=70%>
+<a href="https://youtu.be/hw1oh1wC0ss" target="_blank"><img src="https://media.giphy.com/media/La9RB8Rf0ADTKDAinr/giphy.gif" alt="Mobile Manipulation" width=70%></a>
 </p>
 
 ## Overview:
